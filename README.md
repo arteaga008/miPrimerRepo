@@ -9,3 +9,5 @@ Un commit mas desde Github
 Una actualizacion mas
 
 Cambios creados desde mi rama local en Developer
+
+Cambios desde dev editor 
